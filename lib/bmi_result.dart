@@ -50,7 +50,7 @@ class BMIResult extends StatelessWidget {
               ),
             ),
             new Text(
-              'Jenis Kelasim : ${jenis_kelamin}',
+              'Jenis Kelamin : ${jenis_kelamin}',
               style: TextStyle(
                 fontSize: 20,
                 fontWeight: FontWeight.w800,
